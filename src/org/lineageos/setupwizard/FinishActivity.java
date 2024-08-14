@@ -37,7 +37,7 @@ public class FinishActivity extends BaseSetupWizardActivity {
     // "Why not just start this activity with an Intent extra?" you might ask. Been there.
     // We need this to affect the theme, and even onCreate is not early enough for that,
     // so "static volatile boolean" it is. Feel free to rework this if you dare.
-    private static volatile boolean sIsFinishing;
+    private static volatile boolean sIsFinishing = true;
 
     private View mRootView;
     private Resources.Theme mEdgeToEdgeWallpaperBackgroundTheme;
@@ -132,12 +132,12 @@ public class FinishActivity extends BaseSetupWizardActivity {
 
         // Begin outro animation.
         if (mRootView.isAttachedToWindow()) {
-            mHandler.post(() -> animateOut());
+            mHandler.postDelayed(() -> animateOut(), 500);
         } else {
             mRootView.addOnAttachStateChangeListener(new View.OnAttachStateChangeListener() {
                 @Override
                 public void onViewAttachedToWindow(View v) {
-                    mHandler.post(() -> animateOut());
+                    mHandler.postDelayed(() -> animateOut(), 500);
                 }
 
                 @Override
