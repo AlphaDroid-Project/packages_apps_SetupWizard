@@ -23,5 +23,4 @@
     <string name="setup_current_time">நடப்பு நேரம்</string>
     <string name="setup_location">இருப்பிடச் சேவைகள்</string>
     <string name="location_access_summary">உங்கள் இருப்பிட தகவல்களை பயன்படுத்துவதற்கு <b>உங்களிடம் அனுமதி கேட்ட பயன்பாடுகளை அனுமதிக்கவும்.</b> இது உங்களது நடப்பு இருப்பிடம் மற்றும் முந்தைய இருப்பிடத்தை உள்ள்டக்கலாம்.</string>
-    <string name="services_os_nav_keys_label"><b>வன்பொருள் விசைகளுக்கு பதிலாக திரையிலுள்ள</b> வழிச்செல்லுதல் விசைகளை பயன்படுத்தவும்</string>
 </resources>

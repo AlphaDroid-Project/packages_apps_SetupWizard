@@ -18,6 +18,4 @@
     <string name="setup_current_time">زمان کنونی</string>
     <string name="setup_location">خدمات مکان</string>
     <string name="location_access_summary"><b>به برنامه‌هایی که درخواست مکان می‌کنند اجازه دهید</b> از اطلاعات مکان شما استفاده کنند. ممکن است این استفاده شامل مکان فعلی و قبلی شما باشد.</string>
-    <string name="setup_services">ویژگی‌های لینیِج اواِس</string>
-    <string name="services_os_nav_keys_label"><b>استفاده از کلیدهای پیمایش صفحه نمایش</b> به جای کلیدهای سخت‌افزاری.</string>
 </resources>

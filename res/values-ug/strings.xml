@@ -22,5 +22,4 @@
     <string name="setup_current_time">نۆۋەتتىكى ۋاقىت</string>
     <string name="setup_location">ئورۇن مۇلازىمەتلىرى</string>
     <string name="location_access_summary"><b>سىز ھوقۇق بەرگەن ئەپنىڭ</b> سىزنىڭ ئورۇن ئۇچۇرىڭىزنى ئىشلىتىشكە يول قويۇش، بۇ بەلكىم سىزنىڭ ھازىرقى ۋە ئۆتمۈشتىكى ئۇچۇرىڭىزنى ئۆز ئىچىگە ئېلىشى مۇمكىن.</string>
-    <string name="services_os_nav_keys_label"><b>مەۋھۇم كونۇپكىنى</b> ھەقىقىي كونۇپكىنىڭ ئورنىغا ئالماشتۇرۇش.</string>
 </resources>
