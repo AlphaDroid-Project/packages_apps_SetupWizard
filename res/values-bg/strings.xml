@@ -27,8 +27,7 @@
     <string name="intro_restore_button">Възстановяване от архив</string>
     <string name="setup_location">Услуги за местоположение</string>
     <string name="location_access_summary"><b>Разреши приложения, които са поискали разрешение</b> за да използва информацията за вашето местоположение. Това може да включва текущото местоположение и последните места.</string>
-    <string name="update_recovery_title">Актуализиране на Lineage Recovery</string>
-    <string name="update_recovery_description">Актуализира Lineage Recovery при първо зареждане след всяка актуализация.</string>
+    <string name="update_recovery_title">Актуализиране на AlphaDroid Recovery</string>
+    <string name="update_recovery_description">Актуализира AlphaDroid Recovery при първо зареждане след всяка актуализация.</string>
     <string name="update_recovery_warning">Recovery ще се актуализира веднага щом завършите настройката. Ако искате да го запазите непокътнат, деактивирайте тази функция.</string>
-    <string name="update_recovery_setting">Актуализирайте Lineage Recovery заедно с операционната система</string>
 </resources>

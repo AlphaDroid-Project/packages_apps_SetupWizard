@@ -12,7 +12,7 @@
     <string name="done">Concluído</string>
     <string name="ok">OK</string>
     <string name="loading">Um momento\u2026</string>
-    <string name="setup_welcome_message">Bem-vindo a <xliff:g id="nome" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Bem-vindo a <xliff:g id="nome" example="AlphaDroid">%1$s</xliff:g></string>
     <string name="emergency_call">Chamada de emergência</string>
     <string name="accessibility_settings">Definições de acessibilidade</string>
     <string name="setup_locale">Idioma</string>
@@ -28,10 +28,10 @@
     <string name="intro_restore_button">Restaurar a partir de cópia de segurança</string>
     <string name="setup_location">Serviços de localização</string>
     <string name="location_access_summary"><b>Permitir que as aplicações que pediram a sua permissão</b> usem as suas informações de localização. Isso pode incluir a sua localização atual bem como localizações anteriores.</string>
-    <string name="update_recovery_title">Atualizar a recuperação Lineage</string>
-    <string name="update_recovery_description">Atualiza a recuperação Lineage na primeira inicialização subsequente a cada atualização.</string>
+    <string name="update_recovery_title">Atualizar a recuperação AlphaDroid</string>
+    <string name="update_recovery_description">Atualiza a recuperação AlphaDroid na primeira inicialização subsequente a cada atualização.</string>
     <string name="update_recovery_warning">A recuperação será atualizada assim que terminar a configuração. Se desejar mantê-la intacta, desative esta opção.</string>
-    <string name="update_recovery_setting">Atualizar a recuperação Lineage aquando a atualização do SO</string>
+    <string name="update_recovery_setting">Atualizar a recuperação AlphaDroid aquando a atualização do SO</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navegação</string>
     <string name="navigation_summary">Escolher método de navegação preferido</string>

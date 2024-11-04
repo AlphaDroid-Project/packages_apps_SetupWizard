@@ -12,7 +12,7 @@
     <string name="done">U krye</string>
     <string name="ok">OK</string>
     <string name="loading">Një sekondë\u2026</string>
-    <string name="setup_welcome_message">Mire se erdhët në <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Mire se erdhët në <xliff:g id="name" example="AlphaDroid">%1$s</xliff:g></string>
     <string name="setup_managed_profile_welcome_message">Konfiguro profilin tënd të punës</string>
     <string name="emergency_call">Thirrje emergjente</string>
     <string name="accessibility_settings">Cilësimet e aksesueshmërisë</string>
@@ -26,15 +26,15 @@
     <string name="setup_current_date">Data aktuale</string>
     <string name="setup_current_time">Ora</string>
     <string name="intro_restore_title">Rikthe aplikacionet dhe të dhënat</string>
-    <string name="intro_restore_subtitle">Nëse keni një kopje rezervë Seedvault nga <xliff:g id="name" example="LineageOS">%s</xliff:g> ose ndonjë OS tjetër, mund ta rivendosni këtu.</string>
+    <string name="intro_restore_subtitle">Nëse keni një kopje rezervë Seedvault nga <xliff:g id="name" example="AlphaDroid">%s</xliff:g> ose ndonjë OS tjetër, mund ta rivendosni këtu.</string>
     <string name="intro_restore_button">Rimerr nga kopja rezervë</string>
     <string name="setup_location">Shërbimet e vendndodhjes</string>
     <string name="location_access_summary"><b> Lejo programe që kanë kërkuar lejen tënde</b> të përdorin informacionin mbi vendndodhjen tuaj. Kjo mund të përfshijë vendndodhjen tuaj aktuale dhe vendodhje tuajat të mëparshme.</string>
     <string name="location_agps_access_summary">Kur vendndodhja është aktive, <b>shkarko të dhënat e ndihmës satelitore nga interneti</b>, të cilat mund të përmirësojnë shumë performancën e nisjes së GPS-së.</string>
-    <string name="update_recovery_title">Përditësoni rikuperimin e Lineage</string>
-    <string name="update_recovery_description">Përditëson Rikuperimin e Lineage në boot-in e parë pas çdo përditësimi.</string>
+    <string name="update_recovery_title">Përditësoni rikuperimin e AlphaDroid</string>
+    <string name="update_recovery_description">Përditëson Rikuperimin e AlphaDroid në boot-in e parë pas çdo përditësimi.</string>
     <string name="update_recovery_warning">Rikuperimi do të përditësohet sapo të keni mbaruar konfigurimin. Nëse dëshironi ta mbani të paprekur, mbylleni këtë veçori.</string>
-    <string name="update_recovery_setting">Përditësoni rikuperimin Lineage krahas OS</string>
+    <string name="update_recovery_setting">Përditësoni rikuperimin AlphaDroid krahas OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Lundrimi</string>
     <string name="navigation_summary">Zgjidhni metodën e preferuar të navigimit</string>
