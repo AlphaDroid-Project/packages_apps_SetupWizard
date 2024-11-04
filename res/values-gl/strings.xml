@@ -27,8 +27,8 @@
     <string name="intro_restore_button">Restaurar dende a copia de seguranza</string>
     <string name="setup_location">Servizos de localización</string>
     <string name="location_access_summary"><b>Permite que as aplicacións se teñen o teu permiso</b> utilicen a información sobre a túa localización, o que pode incluír á presente e ás pasadas.</string>
-    <string name="update_recovery_title">Actualizar Recuperador de Lineage</string>
-    <string name="update_recovery_description">Actualiza o Recuperador do Lineage no primeiro arranque despois de cada actualización.</string>
+    <string name="update_recovery_title">Actualizar Recuperador de AlphaDroid</string>
+    <string name="update_recovery_description">Actualiza o Recuperador do AlphaDroid no primeiro arranque despois de cada actualización.</string>
     <string name="update_recovery_warning">O Recuperador actualizarase axiña que remates a configuración. Se desexas mantelo intacto, desactiva esta función.</string>
-    <string name="update_recovery_setting">Actualizar o Recuperador de Lineage xunto co sistema operativo</string>
+    <string name="update_recovery_setting">Actualizar o Recuperador de AlphaDroid xunto co sistema operativo</string>
 </resources>
