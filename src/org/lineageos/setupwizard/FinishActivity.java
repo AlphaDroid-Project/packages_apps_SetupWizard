@@ -45,7 +45,7 @@ public class FinishActivity extends BaseSetupWizardActivity {
     // "Why not just start this activity with an Intent extra?" you might ask. Been there.
     // We need this to affect the theme, and even onCreate is not early enough for that,
     // so "static volatile" it is. Feel free to rework this if you dare.
-    private static volatile FinishState sFinishState = FinishState.NONE;
+    private static volatile FinishState sFinishState = FinishState.SHOULD_ANIMATE;
 
     private View mRootView;
     private Resources.Theme mEdgeToEdgeWallpaperBackgroundTheme;
