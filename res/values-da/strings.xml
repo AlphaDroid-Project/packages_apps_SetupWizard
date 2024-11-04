@@ -12,7 +12,7 @@
     <string name="done">Færdig</string>
     <string name="ok">OK</string>
     <string name="loading">Lige et øjeblik\u2026</string>
-    <string name="setup_welcome_message">Velkommen til <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Velkommen til <xliff:g id="name" example="AlphaDroid">%1$s</xliff:g></string>
     <string name="emergency_call">Nødopkald</string>
     <string name="accessibility_settings">Hjælpefunktioner</string>
     <string name="setup_locale">Sprog</string>
@@ -29,10 +29,10 @@
     <string name="setup_location">Lokalitetstjenester</string>
     <string name="location_access_summary"><b>Tillad apps, der har bedt om din tilladelse</b> at bruge din lokalitetsinformation. Dette kan inkludere din aktuelle lokalitet og tidligere lokaliteter.</string>
     <string name="location_agps_access_summary">Når lokation er tændt, <b>download satellit hjælpedata fra internettet</b>, som kan hjælpe meget med GPS opstartsfunktion</string>
-    <string name="update_recovery_title">Opdater Lineage Genddanelse</string>
-    <string name="update_recovery_description">Opdateringer Lineage Recovery ved første opstart efter hver opdatering.</string>
+    <string name="update_recovery_title">Opdater AlphaDroid Genddanelse</string>
+    <string name="update_recovery_description">Opdateringer AlphaDroid Recovery ved første opstart efter hver opdatering.</string>
     <string name="update_recovery_warning">Gendannelse vil blive opdateret, så snart du er færdig med opsætningen. Hvis du ønsker at holde det intakt, skal du deaktivere denne funktion.</string>
-    <string name="update_recovery_setting">Opdater Lineage Recovery sammen med OS</string>
+    <string name="update_recovery_setting">Opdater AlphaDroid Recovery sammen med OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigation</string>
     <string name="navigation_summary">Vælg foretrukken navigationsmetode</string>
