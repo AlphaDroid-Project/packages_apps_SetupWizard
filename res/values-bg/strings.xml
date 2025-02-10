@@ -12,6 +12,7 @@
     <string name="done">Готово</string>
     <string name="ok">Добре</string>
     <string name="loading">Само секунда\u2026</string>
+    <string name="setup_welcome_message">Добре дошли в <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
     <string name="emergency_call">Спешни повиквания</string>
     <string name="accessibility_settings">Настройки на достъпност</string>
     <string name="setup_locale">Език</string>
@@ -30,4 +31,11 @@
     <string name="update_recovery_title">Актуализиране на AlphaDroid Recovery</string>
     <string name="update_recovery_description">Актуализира AlphaDroid Recovery при първо зареждане след всяка актуализация.</string>
     <string name="update_recovery_warning">Recovery ще се актуализира веднага щом завършите настройката. Ако искате да го запазите непокътнат, деактивирайте тази функция.</string>
+    <string name="update_recovery_setting">Актуализирайте AlphaDroid Recovery заедно с операционната система</string>
+    <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
+    <string name="navigation_summary">Изберете предпочитан начин за ориентиране</string>
+    <string name="gesture_navigation">Жестово ориентиране</string>
+    <string name="two_button_navigation">Ориентиране с два бутона</string>
+    <string name="navbar_navigation">Ориентиране с три бутона</string>
+    <string name="hide_gesture_hint">Скрий подсказката за жестово ориентиране</string>
 </resources>
